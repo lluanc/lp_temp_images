@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>color-palette 3</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop---LP-Cargos-e-Salários" transform="translate(-999.000000, -928.000000)">
+            <g id="Group-2-Copy" transform="translate(989.000000, 918.000000)">
+                <g id="color-palette-3" transform="translate(7.000000, 7.000000)">
+                    <rect id="Rectangle" x="0" y="1.5e-05" width="36" height="36"></rect>
+                    <polygon id="Path" points="0 0 36 0 36 36 0 36"></polygon>
+                    <path d="M25.839165,22.736235 L25.5,23.08062 L25.16079,22.73619 C24.54364,22.1054987 23.6984365,21.7500192 22.8160275,21.7500192 C21.9336185,21.7500192 21.088415,22.1054987 20.471265,22.73619 L20.471265,22.73619 C19.1762718,24.0592969 19.1762718,26.1748181 20.471265,27.497925 L23.643885,30.719355 C24.13243,31.2186169 24.8015039,31.500018 25.5000201,31.500018 C26.1985561,31.500018 26.86763,31.2186169 27.356175,30.719355 L30.528735,27.498 C31.8237478,26.1748894 31.8237478,24.0593456 30.528735,22.736235 L30.528735,22.736235 C29.9115793,22.1055373 29.0663676,21.7500192 28.18395,21.7500192 C27.3015324,21.7500192 26.4563207,22.1055373 25.839165,22.736235 Z" id="Path" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M15,22.5 L10.5,22.5 C7.1862915,22.5 4.5,25.1862915 4.5,28.5 L4.5,30" id="Path" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="Oval" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="16.5" cy="10.500015" r="6"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
